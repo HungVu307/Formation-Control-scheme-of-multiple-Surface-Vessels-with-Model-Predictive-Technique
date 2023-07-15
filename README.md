@@ -1,5 +1,5 @@
 # Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique
-ICISN 2023
+This manuscript was accepted by ICISN 2023
 # Abstract
 This article studies formation control consideration of cooperative
 path following problem in a group of multiple Surface Vehicles (SVs). A pro-
