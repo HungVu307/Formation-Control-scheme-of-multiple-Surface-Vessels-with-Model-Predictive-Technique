@@ -31,5 +31,9 @@ discussed in Section 2. In Section 3, the formation control structure is propose
 combination between three control loops. In Section 4, the simulation implementations
 are given to illustrate.
 
-![agent](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/a39f0ae8-3c82-49f8-9f80-779b15416115)
-![fig1](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/6a634b7f-1de4-42ee-a7b6-cb07832ae72f)
+![image](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/e1b74987-943a-47ac-92ab-f45cf32987fb)
+![image](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/0df69981-3f75-4741-a021-4ae04f94c49b)
+
+# Results
+![image](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/ae7fb667-c243-4266-b12d-b97609c405ab)
+# Citation
