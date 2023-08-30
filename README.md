@@ -37,3 +37,15 @@ are given to illustrate.
 # Results
 ![image](https://github.com/VuManhHung307201/Formation-Control-scheme-of-multiple-Surface-Vessels-with-Model-Predictive-Technique/assets/106971509/ae7fb667-c243-4266-b12d-b97609c405ab)
 # Citation
+
+If you find the code useful for your work, please cite as
+
+```bibtex
+@inproceedings{vu2023new,
+  title={A New ConvMixer-Based Approach for Diagnosis of Fault Bearing Using Signal Spectrum},
+  author={Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong},
+  booktitle={Conference on Information Technology and its Applications},
+  pages={3--14},
+  year={2023},
+  organization={Springer}
+}
